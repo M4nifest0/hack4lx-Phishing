@@ -20,9 +20,9 @@ bash install.sh
 
 python3 recreator-phishing.py
 
-https://github.com/AngelSecurityTeam/Recreator-Phishing/blob/master/cap_1.png
-https://github.com/AngelSecurityTeam/Recreator-Phishing/blob/master/cap_2.png
-https://github.com/AngelSecurityTeam/Recreator-Phishing/blob/master/cap_3.png
+PHISHING-TOOL PHOTOS
+
+[cap_1-HACK4LX](https://github.com/AngelSecurityTeam/Recreator-Phishing/blob/master/cap_1.png)
 
 **********************************************************
 
