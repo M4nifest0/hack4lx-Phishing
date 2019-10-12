@@ -23,8 +23,8 @@ python3 recreator-phishing.py
 PHISHING-TOOL PHOTOS
 
 [cap_1-HACK4LX](https://github.com/AngelSecurityTeam/Recreator-Phishing/blob/master/cap_1.png)
-[cap_1-HACK4LX](https://github.com/AngelSecurityTeam/Recreator-Phishing/raw/master/cap_2.png)
-[cap_1-HACK4LX](https://github.com/AngelSecurityTeam/Recreator-Phishing/raw/master/cap_3.png)
+[cap_2-HACK4LX](https://github.com/AngelSecurityTeam/Recreator-Phishing/raw/master/cap_2.png)
+[cap_3-HACK4LX](https://github.com/AngelSecurityTeam/Recreator-Phishing/raw/master/cap_3.png)
 
 **********************************************************
 
